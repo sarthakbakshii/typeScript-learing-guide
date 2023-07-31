@@ -1,5 +1,5 @@
-course link : https://youtu.be/30LWjhZzg50
+If not able to understand : ( free code camp  ) https://youtu.be/30LWjhZzg50
 
 documentation : https://www.typescriptlang.org/docs/handbook/2/objects.html
 
-https://devdocs.io/typescript/
+documentation : https://devdocs.io/typescript/
