@@ -64,6 +64,7 @@ heros.map( (hero) : string =>{
 //=========================================
 
 // the function that is not returning anything we should use the void as return type ( good practice )
+// return undefined
 function consoleError(errMessage : string) : void  {
     console.log( errMessage )
 }
@@ -72,6 +73,7 @@ consoleError("error not found")
 
 //=========================================
 
+// return nothing
 function handleError(errMessage : string) : never  {
     throw new Error( errMessage )
 }
@@ -83,3 +85,9 @@ const getSearchProducts3 = ( products : number[] ) : number => {
 }
 
 export {}
+
+/*
+
+void return undefined
+never return nothing 
+*/
